@@ -1,3 +1,6 @@
 require_relative "../lib/my_all.rb"
 
+
+
+
 my_all?([1,2,3]) {|i| i < 2}
